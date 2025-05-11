@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/data
+.env
+.DS_Store
+.AppleDouble
+.LSOverride
